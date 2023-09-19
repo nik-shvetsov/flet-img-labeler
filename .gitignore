@@ -1,0 +1,6 @@
+dist/*
+!dist/.gitkeep
+build/
+imgs/
+main.spec
+TODO.md
